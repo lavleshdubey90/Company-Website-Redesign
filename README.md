@@ -16,7 +16,6 @@ This project represents an improved design for the "AllTrak" website, using Reac
 - **React**: For implementing the redesigned user interface.
 - **Tailwind CSS**: For styling and layout adjustments.
 - **React Icons**: For adding icons to the UI.
-- **[Any Other Libraries/Technologies Used]**
 
 ## Live Project
 
