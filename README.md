@@ -20,7 +20,7 @@ This project represents an improved design for the "AllTrak" website, using Reac
 
 ## Live Project
 
-You can view the live project at: [Live Project Link](https://your-live-project-link.com)
+You can view the live project at: [Live Project Link](https://alltrak-website-redesigned.netlify.app/)
 
 ## Original Company Website
 
