@@ -31,6 +31,6 @@ For comparison, here is the original [AllTrak Website](https://alltrak.co).
 To get started with this project, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/[your-username]/company-website-redesign-react.git
-cd company-website-redesign-react
+git clone https://github.com/lavleshdubey90/Company-Website-Redesign
+cd Company-Website-Redesign
 npm install
